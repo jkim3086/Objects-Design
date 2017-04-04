@@ -2,7 +2,7 @@
 _This is an Android mobile application that enable users to share information of items such as where to buy and prices, with their friends_
 
 ## Functionalities
-A User can 
+**A User can**
 * Login & Logout
 * Register for an account
 * Create a list of friends
